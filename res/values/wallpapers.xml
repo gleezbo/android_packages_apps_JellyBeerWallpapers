@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_1</item>
+        <item>wallpaper_2</item>
+        <item>wallpaper_3</item>
+        <item>wallpaper_4</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>DrunkDroid</item>
+        <item>Mmmmmmm!!!</item>
+        <item>Beer</item>
+        <item>Color</item>
+    </string-array>
+</resources>

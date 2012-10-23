@@ -1,4 +1,4 @@
-android_packages_apps_BeerbongWallpapers
+android_packages_apps_JellyBeerWallpapers
 ========================================
 
-Beerbong Wallpapers
+JellyBeer Wallpapers
