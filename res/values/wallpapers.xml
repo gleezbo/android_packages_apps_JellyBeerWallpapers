@@ -6,6 +6,7 @@
         <item>wallpaper_2</item>
         <item>wallpaper_3</item>
         <item>wallpaper_4</item>
+        <item>wallpaper_5</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -13,5 +14,6 @@
         <item>JellyBeer</item>
         <item>Cartoon</item>
         <item>Bird</item>
+        <item>Wally</item>
     </string-array>
 </resources>
